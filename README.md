@@ -8,3 +8,5 @@ Some of the samples of work done:
 <img width="359" alt="image" src="https://github.com/user-attachments/assets/a67cdb46-4211-4ca5-8b79-4972fa8095c4">
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/b1b5740a-4b9c-4f77-8697-252ce6e0f099">
 <img width="311" alt="image" src="https://github.com/user-attachments/assets/e0220142-f790-416d-a2a1-4297c07de069">
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/6c12abb8-6f80-42c6-97df-a7723e43bfac">
+These features are sucessfully implemented in first commit 
